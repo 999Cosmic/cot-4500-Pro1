@@ -14,10 +14,15 @@ https://docs.replit.com/cloud-services/deployments/deploying-a-github-repository
 Once done, you will see on the left the following project structure:
 
 src/main/__init__.py 
-src/main/assignment_1.py 
+
+src/main/assignment_1.py
+
 src/test/__init__.py
+
 src/test/test_assignment_1.py
+
 requirements.txt 
+
 README.md 
 
 in which assignment_1.py in main is the Python code for all four algorithms that are tied with values to specific related problems, in which test_assignment_1.py tests to make sure the
