@@ -31,7 +31,7 @@ algorithms when run with those values match the correct number of iterations and
 To compile and be able to see all of it yourself, here are the steps:
 1. Make sure shell is on the right side (not console)
 2. Type in "pip install pytest" (you will see it install with plenty of text)
-3. After that, type in "pip freeze > requirements.txt", this should output for you the third party libraries in python, the libraries can vary but what is important is you having pytest and its associated version
+3. After that, type in "pip freeze > requirements.txt", this should output for you the third-party libraries in Python you have installed in Replit, the libraries can vary depending on if you installed libraries before but what is important is you having pytest and its associated version
 4. Now, type in the console "pytest src/test/test_assignment_1.py", this should output in the shell the pytest session starting and showing green with all 4 test cases passed in an allocated timeframe
 
 If you want, you can alter the algorithms values in assignment_1.py and do step 4 again and see that 
